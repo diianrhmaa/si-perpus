@@ -1,6 +1,6 @@
 import Layout from '@/widget/Layout';
-import Iconubah from '@/asset/iconubah';
-import Iconhapus from '@/asset/iconhapus';
+import Iconubah from '@/asset/Iconubah';
+import Iconhapus from '@/asset/Iconhapus';
 import {useRouter} from "next/router";
 import {useState, useEffect} from "react";
 import { db } from '@/config/firebase';
