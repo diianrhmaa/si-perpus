@@ -110,7 +110,7 @@ export default function Home() {
                   ))
               ) : (
                 <tr>
-                  <td className="py-5 text-center" colSpan={6}>Buku ada data buku!</td>
+                  <td className="py-5 text-center" colSpan={6}>Tidak ada data buku!</td>
                 </tr>
               )}
                 </tbody>
